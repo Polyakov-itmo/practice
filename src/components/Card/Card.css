@@ -1,0 +1,18 @@
+.content__point {
+  display: flex;
+  border-bottom: 2px solid #000;
+  font-size: 1em;
+}
+
+.column {
+  padding: 15px 5px;
+}
+
+.column__word {
+  width: 30%;
+  border-right: 2px solid #000;
+}
+
+.column__desc {
+  width: 70%;
+}
